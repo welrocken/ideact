@@ -6,17 +6,26 @@ namespace Ideact.Web.Application
     {
         public static void RegisterBundles(BundleCollection bundles)
         {
-            BundleTable.EnableOptimizations = true;
-            bundles.UseCdn = true;
+            //BundleTable.EnableOptimizations = true;
+            //bundles.UseCdn = true;
 
-            bundles.Add(new ScriptBundle("~/bundles/jquery", "https://code.jquery.com/jquery-3.2.1.min.js").Include(
-                        "~/assets/js/jquery-{version}.js"));
+            bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
+                        "~/assets/js/jquery.js"));
 
-            bundles.Add(new ScriptBundle("~/bundles/bootstrap", "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js").Include(
-                        "~/assets/js/bootstrap-{version}.js"));
+            bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
+                        "~/assets/js/bootstrap.js"));
 
-            bundles.Add(new ScriptBundle("~/bundles/css", "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css").Include(
-                      "~/assets/css/bootstrap-{version}.css"));
+            bundles.Add(new ScriptBundle("~/bundles/theme").Include(
+                        "~/assets/js/custom.js"));
+
+            bundles.Add(new StyleBundle("~/Content/css/bootstrap").Include(
+                      "~/assets/css/bootstrap.css", new CssRewriteUrlTransform()));
+
+            bundles.Add(new StyleBundle("~/Content/css/font-awesome").Include(
+                      "~/assets/css/font-awesome.css", new CssRewriteUrlTransform()));
+
+            bundles.Add(new StyleBundle("~/Content/css/theme").Include(
+                      "~/assets/css/custom.css", new CssRewriteUrlTransform()));
         }
     }
 }

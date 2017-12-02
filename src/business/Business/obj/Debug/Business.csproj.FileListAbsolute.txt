@@ -1,0 +1,5 @@
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\business\Business\bin\Debug\Ideact.Business.dll
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\business\Business\bin\Debug\Ideact.Business.pdb
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\business\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\business\Business\obj\Debug\Ideact.Business.dll
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\business\Business\obj\Debug\Ideact.Business.pdb

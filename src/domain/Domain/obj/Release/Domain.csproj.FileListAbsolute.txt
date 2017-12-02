@@ -1,0 +1,6 @@
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\build\Ideact.Domain.dll
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\build\Ideact.Domain.pdb
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\domain\Domain\obj\Release\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\domain\Domain\obj\Release\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\domain\Domain\obj\Release\Ideact.Domain.dll
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\domain\Domain\obj\Release\Ideact.Domain.pdb

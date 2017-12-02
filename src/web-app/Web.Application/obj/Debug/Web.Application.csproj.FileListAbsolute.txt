@@ -27,3 +27,4 @@ C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\web-app\Web.Application\bin\W
 C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\web-app\Web.Application\bin\Antlr3.Runtime.pdb
 C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\web-app\Web.Application\bin\Newtonsoft.Json.xml
 C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\web-app\Web.Application\bin\System.Web.Optimization.xml
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\web-app\Web.Application\bin\NCommons.Asp.Net.dll

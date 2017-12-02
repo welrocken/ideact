@@ -1,0 +1,6 @@
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\build\Ideact.Business.dll
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\build\Ideact.Business.pdb
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\business\Business\obj\Release\Business.csprojResolveAssemblyReference.cache
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\business\Business\obj\Release\Business.csproj.CoreCompileInputs.cache
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\business\Business\obj\Release\Ideact.Business.dll
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\business\Business\obj\Release\Ideact.Business.pdb

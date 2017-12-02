@@ -1,0 +1,17 @@
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\rest-service\Rest.Service\bin\Ideact.Rest.Service.dll.config
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\rest-service\Rest.Service\bin\Ideact.Rest.Service.dll
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\rest-service\Rest.Service\bin\Ideact.Rest.Service.pdb
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\rest-service\Rest.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\rest-service\Rest.Service\bin\Newtonsoft.Json.dll
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\rest-service\Rest.Service\bin\System.Net.Http.Formatting.dll
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\rest-service\Rest.Service\bin\System.Web.Http.dll
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\rest-service\Rest.Service\bin\System.Web.Http.WebHost.dll
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\rest-service\Rest.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\rest-service\Rest.Service\bin\Newtonsoft.Json.xml
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\rest-service\Rest.Service\bin\System.Net.Http.Formatting.xml
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\rest-service\Rest.Service\bin\System.Web.Http.xml
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\rest-service\Rest.Service\bin\System.Web.Http.WebHost.xml
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\rest-service\Rest.Service\obj\Debug\Rest.Service.csprojResolveAssemblyReference.cache
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\rest-service\Rest.Service\obj\Debug\Rest.Service.csproj.CoreCompileInputs.cache
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\rest-service\Rest.Service\obj\Debug\Ideact.Rest.Service.dll
+C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\rest-service\Rest.Service\obj\Debug\Ideact.Rest.Service.pdb
