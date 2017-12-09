@@ -6,9 +6,6 @@ namespace Ideact.Web.Application
     {
         public static void RegisterBundles(BundleCollection bundles)
         {
-            //BundleTable.EnableOptimizations = true;
-            //bundles.UseCdn = true;
-
             bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
                         "~/assets/js/jquery.js"));
 

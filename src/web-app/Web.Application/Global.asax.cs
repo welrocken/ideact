@@ -11,7 +11,6 @@ namespace Ideact.Web.Application
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
-            TemplateConfig.RegisterTemplate();
         }
     }
 }
