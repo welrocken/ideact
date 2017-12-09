@@ -128,17 +128,17 @@
     <Compile Include="Utilities\Css.cs" />
     <Compile Include="Utilities\Text.cs" />
     <Compile Include="View\Builders\ModalButtonBuilder.cs" />
-    <Compile Include="View\ButtonType.cs" />
+    <Compile Include="View\Modal\ButtonType.cs" />
     <Compile Include="View\ITemplate.cs" />
     <Compile Include="View\Builders\ModalBuilder.cs" />
-    <Compile Include="View\Modals.cs" />
-    <Compile Include="View\Property.cs" />
+    <Compile Include="View\Utilities\Modals.cs" />
+    <Compile Include="View\Properties\Property.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="View\ModalButton.cs" />
-    <Compile Include="View\Modal.cs" />
-    <Compile Include="View\Properties.cs" />
+    <Compile Include="View\Modal\ModalButton.cs" />
+    <Compile Include="View\Modal\Modal.cs" />
+    <Compile Include="View\Properties\Properties.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="View\Templates\Bootstrap.cs" />
     <Compile Include="View\Vdto.cs" />
