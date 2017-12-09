@@ -1,0 +1,9 @@
+﻿@model ModalButton
+
+@using Ideact.Web.Application.View;
+
+<button id="@Model.Id" type="button" class="@Model.Class"
+        @if (Model.ClosesModal) { @Html.Raw("data-dismiss=\"modal\"")  }
+        @if (!string.IsNullOrEmpty(Model.JsCallback)) { @Html.Raw(string.Format("onclick=\"{0}(document.getElementById('{1}').getAttribute('data-context'));\"", Model.JsCallback, Model.ModalId)) ; }>
+    @Model.Text
+</button>

@@ -52,7 +52,8 @@
       <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.7\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
-    <Reference Include="NCommons.Asp.Net">
+    <Reference Include="NCommons.Asp.Net, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\lib\NCommons.Asp.Net.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
@@ -122,11 +123,25 @@
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="App_Start\TemplateConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Utilities\Css.cs" />
+    <Compile Include="Utilities\Text.cs" />
+    <Compile Include="View\Builders\ModalButtonBuilder.cs" />
+    <Compile Include="View\ButtonType.cs" />
+    <Compile Include="View\ITemplate.cs" />
+    <Compile Include="View\Builders\ModalBuilder.cs" />
+    <Compile Include="View\Modals.cs" />
+    <Compile Include="View\Property.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="View\ModalButton.cs" />
+    <Compile Include="View\Modal.cs" />
+    <Compile Include="View\Properties.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\Templates\Bootstrap.cs" />
+    <Compile Include="View\Vdto.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config" />
@@ -142,6 +157,10 @@
     <None Include="packages.config" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Shared\PropertiesView.cshtml" />
+    <Content Include="Views\Shared\ModalView.cshtml" />
+    <Content Include="Views\Shared\ModalButtonView.cshtml" />
+    <Content Include="Views\Shared\PropertyView.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
