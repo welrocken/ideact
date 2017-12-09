@@ -1,5 +1,0 @@
-C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\domain\Domain\bin\Debug\Ideact.Domain.dll
-C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\domain\Domain\bin\Debug\Ideact.Domain.pdb
-C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\domain\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
-C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\domain\Domain\obj\Debug\Ideact.Domain.dll
-C:\Users\Eyüp Türker\Documents\GitHub\ideact\src\domain\Domain\obj\Debug\Ideact.Domain.pdb
