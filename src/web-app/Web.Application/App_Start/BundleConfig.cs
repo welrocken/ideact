@@ -23,6 +23,9 @@ namespace Ideact.Web.Application
 
             bundles.Add(new StyleBundle("~/Content/css/theme").Include(
                       "~/assets/css/custom.css", new CssRewriteUrlTransform()));
+
+            bundles.Add(new StyleBundle("~/Content/css/animate").Include(
+                      "~/assets/css/animate.css", new CssRewriteUrlTransform()));
         }
     }
 }

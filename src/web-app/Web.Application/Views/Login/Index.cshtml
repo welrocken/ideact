@@ -1,0 +1,29 @@
+﻿@{
+    Layout = null;
+}
+
+@using System.Web.Optimization;
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+
+    @Styles.Render("~/Content/css/bootstrap")
+    @Styles.Render("~/Content/css/font-awesome")
+    @Styles.Render("~/Content/css/animate")
+    @Styles.Render("~/Content/css/theme")
+</head>
+<body class="login">
+    <div>
+        <a class="hiddenanchor" id="signup"></a>
+        <a class="hiddenanchor" id="signin"></a>
+        <div class="login_wrapper">
+            @Html.Partial("LoginView")
+            @Html.Partial("RegisterView")
+        </div>
+    </div>
+</body>
+</html>
